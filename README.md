@@ -1,5 +1,5 @@
 # TMT-Poject
-##B21-CAP0432 Team Members
+## B21-CAP0432 Team Members
 - Aldy Rizky Juniar A2462306
 - Nana Supriatna A2462307
 - Fernaldi Widharsono C2272207 
